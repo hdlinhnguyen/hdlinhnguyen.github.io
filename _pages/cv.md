@@ -34,12 +34,7 @@ Languages:
 * Programming:
   * Julia: intermediate
   * R and Python: basic
-* Communication: Vietnamese, English, Francais (B1)
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Speaking: Vietnamese, English, Français (B1)
+
   
 
