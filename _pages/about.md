@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Linh! (xin chào, mình là Linh)
+Hello, I'm Linh! 
 I am interested in environmental economics and decision-making processes.
 
 Currently, I am a student at ENS Paris-Saclay, Université Paris-Saclay.
