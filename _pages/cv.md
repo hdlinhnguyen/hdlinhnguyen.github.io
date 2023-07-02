@@ -27,7 +27,6 @@ Work experience
  
 * Summer 2018: Internship
   * Development and Policies Research Center (DEPOCEN)
-  * Duties included: Merging pull requests
   * Duties included: Collected and cleaned data, conducted analyses, performed literature reviews and helped with project reports.
   
 Languages:
