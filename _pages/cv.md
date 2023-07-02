@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Short CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,26 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Economics, Université Paris-Saclay, present
+* B.S. in Economics, Vietnam National University of Agriculture, 2014-2018
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Internship
+  * PSAE, INRAE - Campus Agro Paris-Saclay
+  * Duties included: Economic modelling and numerical implementation for theoretical model
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 08/2018 - 08/2020: Research Assistant
+  * Vietnam National University of Agriculture
+  * Duties included: Conducted the research and supported the projects focusing on Development and Environmental Economics.
  
-* Fall 2015: Research Assistant
-  * Github University
+* Summer 2018: Internship
+  * Development and Policies Research Center (DEPOCEN)
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Duties included: Collected and cleaned data, conducted analyses, performed literature reviews and helped with project reports.
   
 Languages:
 ======
@@ -38,13 +36,6 @@ Languages:
   * Julia: intermediate
   * R and Python: basic
 * Communication: Vietnamese, English, Francais (B1)
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
   
 Teaching
 ======
