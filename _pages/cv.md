@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Economics, Université Paris-Saclay, present
-* B.S. in Economics, Vietnam National University of Agriculture, 2014-2018
+* B.S. in Economics, Vietnam National University of Agriculture, 2018
 
 
 Work experience
