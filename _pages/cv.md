@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Economics, Université Paris-Saclay, present
+* M.S. in Economics, ENS Paris-Saclay, Université Paris-Saclay, present
 * B.S. in Economics, Vietnam National University of Agriculture, 2018
 
 
