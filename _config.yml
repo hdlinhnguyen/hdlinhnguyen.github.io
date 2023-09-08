@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Linh H.D. Nguyen"
-  avatar           : "profilecolor.png"
+  avatar           : "ava.png" #"profilecolor.png"
   bio              : "a lifelong learner"
   location         : "Cachan, France"
   employer         :
