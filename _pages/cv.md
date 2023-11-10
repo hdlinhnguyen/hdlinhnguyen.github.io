@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Economics, ENS Paris-Saclay, Université Paris-Saclay, present
-* B.S. in Economics, Vietnam National University of Agriculture, 2018
+* M.Sc in Computer Science, Université Paris Dauphine, present
+* M.Sc in Economics, ENS Paris-Saclay, Université Paris-Saclay, 2023
 
 
 Work experience
