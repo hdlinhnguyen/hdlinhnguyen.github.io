@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 Hello, I'm Linh! 
-I am interested in environmental economics and decision-making processes.
+I am interested in decision-making processes.
 
-Currently, I am a student at ENS Paris-Saclay, Université Paris-Saclay.
+Currently, I am a student at Université Paris Dauphine.
 
 I'm best reached via email _linh.nguyen(at)ens-paris-saclay.fr_
 
