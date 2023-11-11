@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.Sc in Computer Science, Université Paris Dauphine, present
-* M.Sc in Economics, ENS Paris-Saclay, Université Paris-Saclay, 2023
-
+* M.Sc. in Computer Science, Université Paris Dauphine, present
+* M.Sc. in Economics, ENS Paris-Saclay, Université Paris-Saclay, 2023
 
 Work experience
 ======
