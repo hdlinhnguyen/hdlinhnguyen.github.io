@@ -13,7 +13,7 @@ I am interested in decision-making processes.
 
 Currently, I am a student at Université Paris Dauphine.
 
-I'm best reached via email _linh.nguyen(at)ens-paris-saclay.fr_
+I'm best reached via email _hdlinh.nguyen19@gmail.com_
 
 I'm always open to interesting conversations and collaboration.
 
