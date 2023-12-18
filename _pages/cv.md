@@ -20,6 +20,10 @@ Work experience
   * PSAE, INRAE - Campus Agro Paris-Saclay
   * Duties included: Economic modelling and numerical implementation for theoretical model
 
+* Fall 2022: Teaching Assistant
+  * Sciences Po, FNSP
+  * Duties included: First-year math-econ preparation 
+
 * 08/2018 - 08/2020: Research Assistant
   * Vietnam National University of Agriculture
   * Duties included: Conducted the research and supported the projects focusing on Development and Environmental Economics.
