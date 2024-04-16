@@ -13,7 +13,7 @@ I am interested in decision-making processes.
 
 Currently, I am a student at Université Paris Dauphine.
 
-*I am looking for a research internship in CS with a desirable duration of 25 weeks to complete my current study.*
+*I am looking for a PhD offer (CIFRE) or Operational research at a company that can start from this October.*
 
 I'm best reached via email _hdlinh.nguyen19(AT)gmail.com_
 
