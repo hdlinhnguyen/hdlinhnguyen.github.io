@@ -16,6 +16,10 @@ Education
 
 Work experience
 ======
+* Summer 2024: Internship
+  * LAMSADE - UMR CNRS 7243 – Université Paris Dauphine-PSL
+  * Duties included: work on the topic of Computational Social Choice theory and algorithm
+
 * Summer 2023: Internship
   * PSAE, INRAE - Campus Agro Paris-Saclay
   * Duties included: Economic modelling and numerical implementation for theoretical model
@@ -23,10 +27,6 @@ Work experience
 * Fall 2022: Teaching Assistant
   * Sciences Po
   * Duties included: First-year math-econ preparation 
-
-* 08/2018 - 08/2020: Research Assistant
-  * Vietnam National University of Agriculture
-  * Duties included: Conducted the research and supported the projects focusing on Development and Environmental Economics.
   
 Languages:
 ======
