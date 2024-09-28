@@ -11,7 +11,10 @@ redirect_from:
 
 Education
 ======
-* M.Sc. in Computer Science, Université Paris Dauphine - PSL, present
+* M.Sc. in Computer Science (parcours MODO), Université Paris Dauphine - PSL, 2024
+  * Courses: Graphs and applications, Mathematical Programming, Modelling in Decision Aiding  – Operational Research, Decision under uncertainty and decision models,  Multiobjective optimization, Robustness in Operational Research and Decision Aiding, Algorithmic Decision Theory and Computational Social Choice, Theory and practice of production scheduling, Complexity Theory, Algorithmic games, Stochastic programming.
+  * Projects and Workshops: (1) Artificial Intelligence and Decision; (2) Mathematical Programming; (3) Decision aiding: procedures, models and approaches.
+  
 * M.Sc. in Economics, ENS Paris-Saclay, Université Paris-Saclay, 2023
 
 Work experience
