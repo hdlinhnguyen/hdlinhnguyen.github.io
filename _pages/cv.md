@@ -16,6 +16,7 @@ Education
   * Projects and Workshops: (1) Artificial Intelligence and Decision; (2) Mathematical Programming; (3) Decision aiding: procedures, models and approaches.
   
 * M.Sc. in Economics, ENS Paris-Saclay, Université Paris-Saclay, 2023
+  * Coursework:  
 
 Work experience
 ======
@@ -34,8 +35,7 @@ Work experience
 Languages:
 ======
 * Programming:
-  * Julia: intermediate
-  * R and Python: basic
+  * Julia, R and Python
 * Speaking: Vietnamese, English, Français (B1)
 
   
