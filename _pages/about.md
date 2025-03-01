@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 Hello, I'm Linh! 
-I am interested in decision-making processes.
+I am interested in decision-making processes, and optimization problems.
 
-Currently, I am a student at Université Paris Dauphine.
+Currently, I am a recent graduate of Université Paris Dauphine.
 
-*I am looking for a PhD offer (CIFRE) or Operational research at a company that can start from this October.*
+*I am looking for a Data Professional position or Financial Analyst at a company that can start immediately.*
 
 I'm best reached via email _hdlinh.nguyen19(AT)gmail.com_
 
