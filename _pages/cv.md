@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Work experience
 ======
 * Summer 2024: Research Internship
@@ -23,7 +24,7 @@ Work experience
   * Sciences Po
   * Duties included: First-year math-econ preparation 
   
-Languages:
+Languages
 ======
 * Programming:
   * Python, SQL, R, Julia
@@ -42,7 +43,7 @@ Education
 * M.Sc. in Economics, ENS Paris-Saclay, Université Paris-Saclay, 2023
   * Coursework: (M2) Market Design; Intermediate and Advanced Game Theory; Economics of International Negotiation; Industrial Organization: theory and practice; Network Economics; Intermediate and Advanced Public Economics; Sustainable Development; Financial Macroeconomics; (M1) Decision theory and Game theory; Economic Modelling; Environmental Economics and Sustainable growth; Macroeconomics I and II; Firms and Markets; Intermediate Econometrics (OLS, IV, ARMA); Advanced Econometrics (DiD,RCT,Matching methods, Non-linear econometrics).
 
-Professional Certificates:
+Professional Certificates
 ======
 * IBM Data Science Specialization
 * GenAI with LLMs by DeepLearning.AI
