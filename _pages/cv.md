@@ -30,7 +30,7 @@ Languages
   * Python, SQL, R, Julia
 * Speaking: Vietnamese, English, Français (B1)
 
-Tools:
+Tools
 ======
 * LaTeX, Git, VS Code, Microsoft Office, MongoDB
 
