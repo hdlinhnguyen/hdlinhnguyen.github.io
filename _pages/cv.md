@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Short CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2024: Research Internship
+  * LAMSADE - UMR CNRS 7243 – Université Paris Dauphine-PSL
+  * Duties included: work on the topic of Computational Social Choice theory and algorithm
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023: Research Internship
+  * PSAE, INRAE - Campus Agro Paris-Saclay
+  * Duties included: Economic modelling and numerical implementation for theoretical model
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2022: Teaching Assistant
+  * Sciences Po
+  * Duties included: First-year math-econ preparation 
   
-Skills
+Languages:
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming:
+  * Python, SQL, R, Julia
+* Speaking: Vietnamese, English, Français (B1)
 
-Publications
+Tools:
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* LaTeX, Git, VS Code, Microsoft Office, MongoDB
+
+Education
+======
+* M.Sc. in Computer Science (parcours MODO), Université Paris Dauphine - PSL, 2024
+  * Courses: Graphs and applications, Mathematical Programming, Modelling in Decision Aiding  – Operational Research, Decision under uncertainty and decision models,  Multiobjective optimization, Robustness in Operational Research and Decision Aiding, Algorithmic Decision Theory and Computational Social Choice, Theory and practice of production scheduling, Complexity Theory, Algorithmic games, Stochastic programming.
+  * Projects on the topic: (1) Artificial Intelligence and Decision; (2) Mathematical Programming; (3) Decision aiding: procedures, models and approaches.
   
-Talks
+* M.Sc. in Economics, ENS Paris-Saclay, Université Paris-Saclay, 2023
+  * Coursework: (M2) Market Design; Intermediate and Advanced Game Theory; Economics of International Negotiation; Industrial Organization: theory and practice; Network Economics; Intermediate and Advanced Public Economics; Sustainable Development; Financial Macroeconomics; (M1) Decision theory and Game theory; Economic Modelling; Environmental Economics and Sustainable growth; Macroeconomics I and II; Firms and Markets; Intermediate Econometrics (OLS, IV, ARMA); Advanced Econometrics (DiD,RCT,Matching methods, Non-linear econometrics).
+
+Professional Certificates:
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* IBM Data Science Specialization
+* GenAI with LLMs by DeepLearning.AI
