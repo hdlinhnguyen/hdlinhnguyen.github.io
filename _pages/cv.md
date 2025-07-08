@@ -12,7 +12,7 @@ redirect_from:
 
 Work experience
 ======
-* Summer 2024: Research Internship
+* Spring - Summer 2024: Research Internship
   * LAMSADE - UMR CNRS 7243 – Université Paris Dauphine-PSL
   * Duties included: work on the topic of Computational Social Choice theory and algorithm
 
