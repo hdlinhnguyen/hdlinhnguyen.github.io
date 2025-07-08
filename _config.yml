@@ -26,7 +26,7 @@ author:
   name             : "Linh H.D. Nguyen"
   pronouns         : # example: "she/her"  
   bio              : "a curious mind loves exploring new things"
-  location         : "Paris"
+  location         : "Paris, France"
   employer         : # "Red Brick University"
   uri              : # URL
   email            : "hdlinh.nguyen19@gmail.com" 
@@ -274,7 +274,7 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: false
       comment: false
   # _talks
