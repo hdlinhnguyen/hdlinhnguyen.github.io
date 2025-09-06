@@ -27,8 +27,8 @@ Work experience
 Languages
 ======
 * Programming:
-  * Python, SQL, R, Julia
-* Speaking: Vietnamese, English, Français (B1)
+  * Python, SQL, R, Julia, LaTex, C++, C
+* Speaking: Vietnamese, English, Français (B1, currently improving)
 
 Tools
 ======
@@ -45,5 +45,6 @@ Education
 
 Professional Certificates
 ======
+* Machine learning for Trading Coursera specialization
 * IBM Data Science Specialization
 * GenAI with LLMs by DeepLearning.AI
