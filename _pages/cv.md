@@ -12,11 +12,11 @@ redirect_from:
 
 Work experience
 ======
-* Spring - Summer 2024: Research Internship
+* Spring - Summer 2024: Optimization Scientist - Internship
   * LAMSADE - UMR CNRS 7243 – Université Paris Dauphine-PSL
   * Duties included: work on the topic of Computational Social Choice theory and algorithm
 
-* Summer 2023: Research Internship
+* Summer 2023: Data Scientist/Modelling - Internship
   * PSAE, INRAE - Campus Agro Paris-Saclay
   * Duties included: Economic modelling and numerical implementation for theoretical model
 
@@ -27,7 +27,7 @@ Work experience
 Languages
 ======
 * Programming:
-  * Python, SQL, R, Julia, LaTex, C++, C
+  * Python, SQL, R, Julia, Matlab, LaTex, C++, C
 * Speaking: Vietnamese, English, Français (B1, currently improving)
 
 Tools
