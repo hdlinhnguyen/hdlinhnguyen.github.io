@@ -1,5 +1,5 @@
 ---
-title: "[Earthquake damage prediction](https://github.com/hdlinhnguyen/Earthquake-damage-prediction)"
+title: "[:rotating_light: Earthquake damage prediction](https://github.com/hdlinhnguyen/Earthquake-damage-prediction)"
 
 collection: portfolio
 ---
