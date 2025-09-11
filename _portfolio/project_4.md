@@ -1,5 +1,5 @@
 ---
-title: "[Financial market prediction](https://github.com/hdlinhnguyen/Market-prediction-case-study-of-India)"
+title: "[Financial market prediction :bank:](https://github.com/hdlinhnguyen/Market-prediction-case-study-of-India)"
 
 collection: portfolio
 ---
