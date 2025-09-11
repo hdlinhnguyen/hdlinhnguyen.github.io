@@ -54,7 +54,7 @@ Professional Certificates
 * IBM Data Science Specialization
 * GenAI with LLMs by DeepLearning.AI
 
-Hobbies:
+Hobbies
 ======
 * Playing piano :musical_keyboard:
 * Climbing :climbing_woman:
