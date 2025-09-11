@@ -1,5 +1,5 @@
 ---
-title: "[Air Quality Prediction](https://github.com/hdlinhnguyen/Air-Quality-in-Afica)"
+title: "[Air Quality Prediction :balloon:](https://github.com/hdlinhnguyen/Air-Quality-in-Afica)"
 
 collection: portfolio
 ---
