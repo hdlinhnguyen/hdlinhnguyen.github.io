@@ -1,5 +1,5 @@
 ---
-title: "[Credit Card Fraud Detection](https://github.com/hdlinhnguyen/Credit-card-fraud-detection)"
+title: "[ :warning: Credit Card Fraud Detection](https://github.com/hdlinhnguyen/Credit-card-fraud-detection)"
 
 collection: portfolio
 ---
