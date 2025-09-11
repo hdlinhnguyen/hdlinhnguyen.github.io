@@ -32,11 +32,11 @@ Languages
 ======
 * Programming:
   * Python, SQL, R, Julia, Matlab, LaTex, C++, C
-* Speaking: Vietnamese, English, Français (B1, currently improving)
+* Speaking: Vietnamese (native), English (professional), Français (courant)
 
 Tools
 ======
-* LaTeX, Git, VS Code, Microsoft Office, MongoDB
+* LaTeX, Git, VS Code, Microsoft Office, MongoDB, Tableau
 
 Education
 ======
