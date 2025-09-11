@@ -56,7 +56,7 @@ Professional Certificates
 
 Hobbies
 ======
-* Playing piano :musical_keyboard:
+* Playing piano :musical_keyboard: & Singing :musical_score:
 * Climbing :climbing_woman:
 * Swimming :swimming_woman:
-* Solve puzzles & chess
+* Solve puzzles :jigsaw:: & chess :chess_pawn:
