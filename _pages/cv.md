@@ -59,4 +59,4 @@ Hobbies
 * Playing piano :musical_keyboard: & Singing :musical_score:
 * Climbing :climbing_woman:
 * Swimming :swimming_woman:
-* Solve puzzles :jigsaw:: & chess :chess_pawn:
+* Solve puzzles :jigsaw: & chess :chess_pawn:
