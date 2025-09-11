@@ -46,5 +46,6 @@ Education
 Professional Certificates
 ======
 * Machine learning for Trading Coursera specialization
+* Data-Driven Decision-Making for Agile Organizations
 * IBM Data Science Specialization
 * GenAI with LLMs by DeepLearning.AI
