@@ -32,7 +32,7 @@ Languages
 ======
 * Programming:
   * Python, SQL, R, Julia, Matlab, LaTex, C++, C
-* Speaking: Vietnamese (native), English (professional), Français (courant)
+* Speaking: Vietnamese (native), English (fluent), Français (courant)
 
 Tools
 ======
