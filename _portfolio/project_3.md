@@ -1,5 +1,5 @@
 ---
-title: "[Clustering financial customers](https://github.com/hdlinhnguyen/Clustering-financial-customer)"
+title: "[Clustering financial customers :atm:](https://github.com/hdlinhnguyen/Clustering-financial-customer)"
 
 collection: portfolio
 ---
