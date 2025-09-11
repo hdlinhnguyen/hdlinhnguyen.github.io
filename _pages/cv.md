@@ -53,3 +53,10 @@ Professional Certificates
 * Data-Driven Decision-Making for Agile Organizations
 * IBM Data Science Specialization
 * GenAI with LLMs by DeepLearning.AI
+
+Hobbies:
+======
+* Playing piano :musical_keyboard:
+* Climbing :climbing_woman:
+* Swimming :swimming_woman:
+* Solve puzzles & chess
