@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-:wave: Hello, I am Linh, a recent graduate with a background in Computer Science and Economics :sparkles:
+:wave: Hello, I'm Linh, a recent graduate with a background in Computer Science and Economics :sparkles:
 
 I am an aspiring Data/Optimization Scientist with growing interests in quantitative finance and trading strategies, alongside experience in research, consulting, and teaching. Over the past two years as an R&D Research Analyst and through internships in France, I have worked on data-driven projects that combined technical rigor with business insights. My technical toolkit includes Python, SQL, R, Tableau, and more recently Generative AI, which I apply to design and develop production-ready machine learning pipelines across diverse industries.
 
