@@ -1,7 +1,5 @@
-
-
 ---
-title: "[PySpark: Customer Churn Analysis example](https://github.com/hdlinhnguyen/Customer-Churn-Analysis-Project)"
+title: "[PySpark project: Customer Churn Analysis example](https://github.com/hdlinhnguyen/Customer-Churn-Analysis-Project)"
 
 collection: portfolio
 ---
