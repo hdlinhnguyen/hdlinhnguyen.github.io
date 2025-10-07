@@ -4,7 +4,7 @@ title: "[ 🎬 :memo: YouTube Channel Analytics: An End-to-End Data Pipeline](ht
 collection: portfolio
 ---
 
-Built an end-to-end YouTube Channel Analytics pipeline with YouTube API, Snowflake, dbt, Apache Airflow, and Power BI to automate data ingestion, transformation, 
+Building an end-to-end YouTube Channel Analytics pipeline with YouTube API, Snowflake, dbt, Apache Airflow, and Power BI to automate data ingestion, transformation, 
 and visualization — turning raw video stats into insightful dashboards for insightful content performance analysis.
 
 ---
@@ -15,7 +15,7 @@ and visualization — turning raw video stats into insightful dashboards for ins
 - **Data warehouse**: Snowflake (Warehouse, Database, Schema)  
 - **Data transformation**: dbt Core, dbt-snowflake, dbt-utils  
 - **Orchestration**: Apache Airflow, Astronomer CLI, Cosmos (dbt + Airflow integration)  
-- **Visualization**: Power BI Desktop / Power BI Service  
+- **Visualization**: Power BI 
 - **CI/CD & Environment**: Docker, Astronomer Runtime, `.env` secrets  
 
 ---
