@@ -1,5 +1,5 @@
 ---
-title: "[ :memo: YouTube Channel Analytics: An End-to-End Data Pipeline](https://github.com/hdlinhnguyen/Youtube-Video-Analytics)"
+title: "[ 🎬 :memo: YouTube Channel Analytics: An End-to-End Data Pipeline](https://github.com/hdlinhnguyen/Youtube-Video-Analytics)"
 
 collection: portfolio
 ---
