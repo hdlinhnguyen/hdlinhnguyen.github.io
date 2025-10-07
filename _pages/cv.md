@@ -49,11 +49,11 @@ Education
 
 Professional Certificates
 ======
-* Machine learning for Trading Coursera specialization
+* Machine learning for Trading by Google Cloud & New York Institute of Finance
 * Data-Driven Decision-Making for Agile Organizations
+* IBM Data Science Professional Specialization
 * IBM AI Engineering Specialization
-* IBM Data Science Specialization
-* GenAI with LLMs by DeepLearning.AI
+* GenAI with LLMs by DeepLearning.AI & AWS
 
 Hobbies
 ======
