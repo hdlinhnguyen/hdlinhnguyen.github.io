@@ -16,6 +16,6 @@ and visualization — turning raw video stats into insightful dashboards for ins
 - **Data transformation**: dbt Core, dbt-snowflake, dbt-utils  
 - **Orchestration**: Apache Airflow, Astronomer CLI, Cosmos (dbt + Airflow integration)  
 - **Visualization**: Power BI 
-- **CI/CD & Environment**: Docker, Astronomer Runtime, `.env` secrets  
+- **CI/CD & Environment**: Docker, Astronomer Runtime
 
 ---
