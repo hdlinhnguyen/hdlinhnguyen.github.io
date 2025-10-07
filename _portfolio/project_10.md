@@ -1,5 +1,3 @@
-
-
 ---
 title: "[ :yt: YouTube Channel Analytics: An End-to-End Data Pipeline](https://github.com/hdlinhnguyen/Youtube-Video-Analytics)"
 
