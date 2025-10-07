@@ -51,7 +51,7 @@ Professional Certificates
 ======
 * Machine learning for Trading Coursera specialization
 * Data-Driven Decision-Making for Agile Organizations
-* IBM AI Engineering
+* IBM AI Engineering Specialization
 * IBM Data Science Specialization
 * GenAI with LLMs by DeepLearning.AI
 
