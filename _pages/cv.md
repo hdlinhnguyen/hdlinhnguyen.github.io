@@ -20,7 +20,7 @@ Work experience
   * PSAE, INRAE - Campus Agro Paris-Saclay
   * Duties included: Economic modelling and numerical implementation for theoretical model
 
-* Fall 2022: Teaching Assistant
+* Autumn 2022: Teaching Assistant
   * Sciences Po
   * Duties included: First-year math-econ preparation
  
@@ -51,6 +51,7 @@ Professional Certificates
 ======
 * Machine learning for Trading Coursera specialization
 * Data-Driven Decision-Making for Agile Organizations
+* IBM AI Engineering
 * IBM Data Science Specialization
 * GenAI with LLMs by DeepLearning.AI
 
