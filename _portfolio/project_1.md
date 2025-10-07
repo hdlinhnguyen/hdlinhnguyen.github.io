@@ -1,5 +1,5 @@
 ---
-title: "[💰 Asset management with alternative data sets 🛰️ 🧠](https://github.com/hdlinhnguyen/Asset-management-with-alternative-data-sets)"
+title: "[💰Asset management with alternative data sets 🛰️🧠](https://github.com/hdlinhnguyen/Asset-management-with-alternative-data-sets)"
 
 collection: portfolio
 ---
