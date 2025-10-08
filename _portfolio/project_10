@@ -4,4 +4,4 @@ title: "[💡NLP Project: Social Media Sentiment Analysis💬](https://github.co
 collection: portfolio
 ---
 
-This project trains a Naive Bayes classifier to predict sentiment from thousands of status posts. In the area of online shopping, this project could be useful to automatically predict customer's sentiment (ie, whether their clients are happy or not).
+This project trains a Naive Bayes classifier to predict sentiment from thousands of status posts. In the area of online shopping, this project could be useful to automatically predict customer's sentiment.
