@@ -1,5 +1,5 @@
 ---
-title: "[📊Predictive Modeling for Financial Markets:bank:](https://github.com/hdlinhnguyen/Market-prediction-case-study-of-India)"
+title: "[📊Predictive Modeling for Financial Markets :bank: ](https://github.com/hdlinhnguyen/Market-prediction-case-study-of-India)"
 
 collection: portfolio
 ---
