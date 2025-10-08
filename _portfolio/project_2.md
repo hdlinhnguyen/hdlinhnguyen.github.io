@@ -5,4 +5,3 @@ collection: portfolio
 ---
 
 For any commercial company, customer churn analysis plays an important role as it affects directly to the company profit, marketing decision, and so on. This project uses PySpark package and ML models to identify the factors that contribute to customer churn.
-<br> ***Tech stack:*** PySpark package, Classification (decision tree model)
