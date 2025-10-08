@@ -51,6 +51,7 @@ Professional Certificates
 ======
 * Machine learning for Trading by Google Cloud & New York Institute of Finance
 * Data-Driven Decision-Making for Agile Organizations
+* Term-Structure and Credit Derivatives by Columbia University via Coursera
 * IBM Data Science Professional Specialization
 * IBM AI Engineering Specialization
 * GenAI with LLMs by DeepLearning.AI & AWS
