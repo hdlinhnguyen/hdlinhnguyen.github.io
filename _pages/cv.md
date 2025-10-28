@@ -53,7 +53,8 @@ Professional Certificates
 * Data-Driven Decision-Making for Agile Organizations by Duke University via Coursera
 * Term-Structure and Credit Derivatives by Columbia University via Coursera
 * IBM Data Science Professional Specialization
-* IBM AI Engineering Specialization
+* IBM Generative AI Engineering with LLMs
+* IBM AI Engineering with Python, PyTorch & TensorFlow
 * GenAI with LLMs by DeepLearning.AI & AWS
 
 Hobbies
