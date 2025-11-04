@@ -52,9 +52,9 @@ Professional Certificates
 * Machine learning for Trading by Google Cloud & New York Institute of Finance
 * Data-Driven Decision-Making for Agile Organizations by Duke University via Coursera
 * Term-Structure and Credit Derivatives by Columbia University via Coursera
-* IBM Data Science Professional Specialization
 * IBM Generative AI Engineering with LLMs
 * IBM AI Engineering with Python, PyTorch & TensorFlow
+* IBM RAG and Agentic AI Specialization
 * GenAI with LLMs by DeepLearning.AI & AWS
 
 Hobbies
